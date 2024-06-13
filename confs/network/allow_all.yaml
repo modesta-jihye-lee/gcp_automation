@@ -1,0 +1,4 @@
+allow_http: True
+allow_https: True
+external_access: True
+static_ip: True

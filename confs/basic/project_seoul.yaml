@@ -1,0 +1,4 @@
+project_id: first-project
+region: asia-northeast3
+zone: asia-northeast3-b
+vm_name: first-vm

@@ -1,0 +1,5 @@
+disk_type: pd-balanced
+boot_disk_size_gb: 200
+boot_disk_type: projects/deeplearning-platform-release/global/images/common-cu121-v20240514-debian-11-py310
+boot_yn: True
+auto_delete: True

@@ -1,0 +1,6 @@
+# 2024.6 기준 A100 80GB 지원 가능한 가장 가까운 지역 = 싱가포르
+# https://cloud.google.com/compute/docs/gpus/gpu-regions-zones?hl=ko
+project_id: first-project
+region: asia-southeast1
+zone: asia-southeast1-c
+vm_name: first-vm

@@ -1,0 +1,5 @@
+defaults:
+  - basic: project_seoul # 기본 정보
+  - gpu: a100_40_1 # GPU 정보
+  - disk: default # 부팅 디스크 정보
+  - network: allow_all # 네트워크 정보
